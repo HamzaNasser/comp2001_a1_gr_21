@@ -4,7 +4,7 @@ This is the project README file.
 
 PROJECT TITLE:
 VERSION or DATE:
-AUTHORS:
+AUTHORS: Hamza Shbat, Basem Abbas
 
 
-Hamza has created the repositoy;
+Hamza has created the repository;
